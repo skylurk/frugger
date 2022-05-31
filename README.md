@@ -1,0 +1,2 @@
+# frugger
+A Strapi App
